@@ -1,34 +1,18 @@
 # Communication Constraints and Guidelines
 
-## 1. Be Respectful
-- Maintain a respectful tone in all communications. Avoid personal attacks and derogatory remarks.
+This document outlines the communication constraints and guidelines for our team to ensure effective and professional collaboration. 
 
-## 2. Stay On Topic
-- Ensure that discussions remain on topic. Off-topic discussions can derail the focus of the conversation.
+## General Guidelines
+- **Be Clear and Concise:** Always strive to express your ideas as clearly and directly as possible.
+- **Respect Response Times:** Allow reasonable time for responses, especially for queries needing extensive consideration.
+- **Use Appropriate Channels:** Choose the right platform for your message—chat for quick updates, email for formal communication, etc.
 
-## 3. Be Clear and Concise
-- Communicate your ideas clearly and succinctly. Avoid unnecessary jargon or overly complex language.
+## Constraints
+- **Avoid Over-Communication:** Resist the urge to send redundant messages, especially when a previous point is still under discussion.
+- **Limit Long Messages:** Break up lengthy communications into digestible parts to keep others engaged and encourage response.
 
-## 4. Active Listening
-- Practice active listening. Acknowledge others' points of view and respond thoughtfully.
+## Best Practices
+- **Active Listening:** Always ensure that you understand others’ points before formulating your response.
+- **Documentation:** Keep notes of key decisions and agreements to refer back to later.
 
-## 5. Use Constructive Feedback
-- When giving feedback, focus on the issue, not the individual. Provide solutions where possible.
-
-## 6. Respect Privacy
-- Be mindful of others' privacy. Do not share personal information without consent.
-
-## 7. Encourage Participation
-- Foster an inclusive environment where everyone feels comfortable sharing their thoughts and ideas.
-
-## 8. Time Management
-- Be aware of time constraints in discussions. Start and end meetings on time to respect everyone's schedule.
-
-## 9. Follow-Up
-- Ensure that follow-up actions are clear and assigned to responsible parties after discussions.
-
-## 10. Use Appropriate Channels
-- Choose the right communication channel for your message, whether it's email, chat, or face-to-face.
-
-## 11. Conflict Resolution
-- Address conflicts promptly and respectfully, aiming for resolution that is acceptable to all parties involved.
+Adhering to these guidelines will help us maintain a respectful and efficient communication environment.
